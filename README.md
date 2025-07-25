@@ -108,6 +108,7 @@ We may update this Privacy Policy to reflect changes in our practices or legal r
 For questions about this Privacy Policy or how your information is handled, please contact:
 
 Developer Name: **Yonatan Titos**
+
 Developer Email: yonatant833@gmail.com
 
 School Email: [privacy@gbbss.edu.et](mailto:privacy@gbbss.edu.et)  
