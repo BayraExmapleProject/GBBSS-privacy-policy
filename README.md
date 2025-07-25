@@ -16,7 +16,8 @@ When you use the GBBSS app, we collect only the following personal information d
 - Full name  
 - Email address  
 - Password (created during registration)  
-- School-issued ID (used to access academic results)  
+- School-issued ID (used to access academic results)
+- Student name (used to access academic results)
 
 We do not collect location data, IP addresses, device details, or browsing behavior. Guest users can browse public posts without providing personal information, and we do not collect any identifying data from them.
 
@@ -28,7 +29,7 @@ We collect the minimum information necessary to:
 
 - Provide secure access to your account  
 - Verify your permissions to post news or manage student records  
-- Allow you to view your academic results using your school-issued ID  
+- Allow you to view your academic results using your school-issued ID and name 
 - Enable interaction with posts (e.g., liking or commenting)  
 - Support password recovery when needed  
 
@@ -47,7 +48,7 @@ You may use the app as a guest without creating an account. Guest users can view
 GBBSS uses an internal approval system to assign users one of three roles based on school-granted permissions, verified through the “Get Access” feature in the app’s settings. The roles are:
 
 - **Standard Users**: Can register, view public posts, and interact by liking or commenting. They cannot publish news or access student academic records.  
-- **News Publishers**: Authorized by the school (e.g., student residents or communicators) to create and publish official updates. They cannot view or modify student results.  
+- **Staff Users (News Publishers)**: Authorized by the school (e.g., student residents or communicators) to create and publish official updates. They cannot view or modify student results.  
 - **Super Users**: Typically teachers or school staff, authorized to publish posts and update existing student results.  
 
 When you tap “Get Access,” the app checks your email against the school’s approved list. If approved, you’ll receive a confirmation of your access level. If not, the app will notify you that you do not have the required permissions.
@@ -60,7 +61,7 @@ Academic results are managed through a separate school system on staff-operated 
 
 - Students can view their results using their full name and school-issued ID.  
 - Super Users, as approved by the school, may update existing records when necessary.  
-- No users can create new student records through the app.  
+- **No users can create new student records through the app**.  
 - All access to results is secured and granted solely by the school.  
 
 ---
@@ -88,7 +89,9 @@ We comply with *Ethiopia’s Data Protection and Privacy Proclamation No. 1321/2
 
 ## 8. Children’s Privacy
 
-GBBSS is designed for use in an educational environment and may be accessed by students of all ages. We collect only the minimum information necessary to provide secure access to school services. For users under 16, we comply with *Ethiopia’s Data Protection and Privacy Proclamation* by obtaining verifiable parental consent where required.
+GBBSS is intended for use by individuals aged **13 and above**. We do not knowingly collect personal data from children under the age of 13. If you are under 13, you may browse public posts in guest mode but must not create an account or submit any personal information.
+
+If we learn that we have inadvertently collected personal data from a child under 13 without appropriate consent, we will take immediate steps to delete that information.
 
 If you believe we have collected data from a child without proper consent, please contact us (see Section 10) for immediate resolution.
 
@@ -104,6 +107,9 @@ We may update this Privacy Policy to reflect changes in our practices or legal r
 
 For questions about this Privacy Policy or how your information is handled, please contact:
 
-**Yonatan AiAsrat**  
-Email: [privacy@gbbss.edu.et](mailto:privacy@gbbss.edu.et)  
-Address: *[Insert School Name]*, *[Insert City]*, Ethiopia  
+Developer Name: **Yonatan AiAsrat**
+Developer Email: yonatant833@gmail.com
+
+School Email: [privacy@gbbss.edu.et](mailto:privacy@gbbss.edu.et)  
+
+Address: Gamo Bayra Boarding Secondary School, Arba Minch, Ethiopia  
